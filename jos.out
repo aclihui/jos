@@ -32,6 +32,6 @@ leaving test_backtrace 4
 leaving test_backtrace 5
 Welcome to the JOS kernel monitor!
 Type 'help' for a list of commands.
-He110 World
+[0;32;40m He110 World
 x=3 y=-267321412
-qemu: terminating on signal 15 from pid 5876
+qemu: terminating on signal 15 from pid 7981
